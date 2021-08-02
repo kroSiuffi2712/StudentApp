@@ -1,0 +1,16 @@
+.spinner-1 .spinner-grow {
+    animation-duration: 0.35s !important;
+  }
+  .spinner-2 .spinner-grow {
+    animation-duration: 0.4s !important;
+  }
+  .spinner-3 .spinner-grow {
+    animation-duration: 0.45s !important;
+  }
+  .spinner-4 .spinner-grow {
+    animation-duration: 0.5s !important;
+  }
+  
+  .spinner-grow {
+    background: #0d3fbd !important;
+  }
